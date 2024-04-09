@@ -10,7 +10,7 @@ import moment from 'moment-timezone';
 global.botnumber = "*『🔥┇𝐋𝐄𝐎𝐔𝐂𝐇-𝐁𝐎𝐓』*"
 global.confirmCode = ""
 
-global.owner = ['212631793409', '𝐋𝐞𝐥𝐨𝐮𝐜𝐡 ❦︎', true],
+global.owner = [['212631793409', '𝐋𝐞𝐥𝐨𝐮𝐜𝐡 ❦︎', true],
 ];
 
 global.suittag = ['212631793409'];
