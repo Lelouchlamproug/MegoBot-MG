@@ -13,7 +13,7 @@ global.confirmCode = ""
 global.owner = [['212631793409', '𝐋𝐞𝐥𝐨𝐮𝐜𝐡 ❦︎', true],
 ];
 
-global.suittag = ['212631793409'];
+global.suittag = ['212688592218'];
 global.prems = ['212631793409'];
 
 global.packname = '☾︎ 𝙇𝙚𝙡𝙤𝙪𝙘𝙝-𝙈𝘿 ☽︎';
